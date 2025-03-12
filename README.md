@@ -6,12 +6,20 @@ Al ir colocando los nombres el usuario podrá ver en lista los valores ingresado
 :heavy_check_mark: Proyecto Finalizado :heavy_check_mark:
 </h4>
 
-##:wrench: Funcionalidades del proyecto
+## :wrench: Funcionalidades del proyecto
 - `Funcionalidad 1`: descripción de la funcionalidad 1
 - `Funcionalidad 2`: descripción de la funcionalidad 2
 - `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2
 - `Funcionalidad 3`: descripción de la funcionalidad 3
 
-\## :point_right: Acceso al proyecto
+\## :open_file_folder: Acceso al proyecto
 
 \## :unlock: Abre y ejecuta el proyecto
+
+## :computer: Tecnologías Utilizadas
+- HTML
+- JavaScript
+- CSS
+
+## Autores
+:relaxed: Fernando Ramirez :relaxed:
