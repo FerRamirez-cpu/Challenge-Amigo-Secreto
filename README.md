@@ -7,12 +7,20 @@ Al ir colocando los nombres el usuario podrá ver en lista los valores ingresado
 </h4>
 
 ## :wrench: Funcionalidades del proyecto
-- `Funcionalidad 1`: Validación en campo "Escribe un nombre" Se debe ingresar un nombre
+- `Funcionalidad 1`: Validación en campo "Escribe un nombre" Se debe insertar un nombre
+
+![Funcionalidad 1](https://github.com/user-attachments/assets/d4e391ce-c2a0-4c93-81ec-4410d27f25f4)
+
+- `Funcionalidad 1a`: Validación en campo "Escribe un nombre" Solo acepta letras, si se coloca algún número caracter especial se manda un mensaje
   
+![Funcionalidad 1a](https://github.com/user-attachments/assets/d4faebc5-c0f2-4f5a-b5b6-0c939af8099a)
 
+  
+- `Funcionalidad 2`: Se necesita colocar minimo 2 nombres para poder realizar el sorteo
 
-- `Funcionalidad 2`: descripción de la funcionalidad 2
-- `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2
+![Funcionalidad 2](https://github.com/user-attachments/assets/b0005be2-4b19-4d17-9220-8a46215beef6)
+
+  
 - `Funcionalidad 3`: descripción de la funcionalidad 3
 
 \## :open_file_folder: Acceso al proyecto
