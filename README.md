@@ -11,7 +11,7 @@ Al ir colocando los nombres el usuario podrá ver en lista los valores ingresado
 
 ![Funcionalidad 1](https://github.com/user-attachments/assets/d4e391ce-c2a0-4c93-81ec-4410d27f25f4)
 
-- `Funcionalidad 1a`: Validación en campo "Escribe un nombre" Solo acepta letras, si se coloca algún número caracter especial se manda un mensaje
+- `Funcionalidad 1a`: Validación en campo "Escribe un nombre" Solo acepta letras, si se coloca algún número o carácter especial se manda un mensaje
   
 ![Funcionalidad 1a](https://github.com/user-attachments/assets/d4faebc5-c0f2-4f5a-b5b6-0c939af8099a)
 
@@ -21,11 +21,18 @@ Al ir colocando los nombres el usuario podrá ver en lista los valores ingresado
 ![Funcionalidad 2](https://github.com/user-attachments/assets/b0005be2-4b19-4d17-9220-8a46215beef6)
 
   
-- `Funcionalidad 3`: descripción de la funcionalidad 3
+- `Funcionalidad 3`: Se debem colocar los nombres e irlos agregando a la lista, posterior se da clic en "Sortear amigo" y en la pantalla se podrá visualizar el amigo secreto seleccionado.
+
+![Funcuinalidad 3](https://github.com/user-attachments/assets/b3f3e775-db53-4b9b-9185-b8aac384e669)
+
 
 \## :open_file_folder: Acceso al proyecto
 
+Link para acceder al proyecto: https://github.com/FerRamirez-cpu/Challenge-Amigo-Secreto
+
 \## :unlock: Abre y ejecuta el proyecto
+
+Link de la página: :point_right: https://ferramirez-cpu.github.io/Challenge-Amigo-Secreto/ :point_left:
 
 ## :computer: Tecnologías Utilizadas
 - HTML
@@ -34,3 +41,6 @@ Al ir colocando los nombres el usuario podrá ver en lista los valores ingresado
 
 ## Autores
 :relaxed: Fernando Ramirez :relaxed:
+
+## Licencia :books:
+Este proyecto esta bajo la licencia de  Alura Latam
